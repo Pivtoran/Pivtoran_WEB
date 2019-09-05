@@ -3,3 +3,4 @@
 3.git commit
 4.git config --global user.email
 5.git config --global user.name
+6.git add
